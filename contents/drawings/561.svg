@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255.118pt" height="44.451pt" viewBox="0 0 255.118 44.451" version="1.2">
+<defs>
+<clipPath id="clip1">
+  <path d="M 206 0 L 253.125 0 L 253.125 43.910156 L 206 43.910156 Z M 206 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 233 0 L 248 0 L 248 43.910156 L 233 43.910156 Z M 233 0 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 1.121094 29 L 220 29 L 220 30 L 1.121094 30 Z M 1.121094 29 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1110.188239 0.00173902 C 1110.188239 9.678388 1102.342522 17.524106 1092.665873 17.524106 C 1082.985269 17.524106 1075.139552 9.678388 1075.139552 0.00173902 C 1075.139552 -9.678864 1082.985269 -17.524582 1092.665873 -17.524582 C 1102.342522 -17.524582 1110.188239 -9.678864 1110.188239 0.00173902 Z M 1110.188239 0.00173902 " transform="matrix(0.9878,0,0,-0.9878,-843.897849,21.954843)"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1104.307905 22.028275 L 1104.307905 7.637869 L 1090.41972 7.637869 M 1090.41972 -7.638345 L 1104.307905 -7.638345 L 1104.307905 -22.024797 " transform="matrix(0.9878,0,0,-0.9878,-843.897849,21.954843)"/>
+</g>
+<path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1090.41972 10.91219 L 1090.41972 -10.912667 " transform="matrix(0.9878,0,0,-0.9878,-843.897849,21.954843)"/>
+<path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1076.531534 -7.638345 L 1090.41972 -7.638345 M 1076.531534 -7.638345 L 1076.531534 -7.638345 " transform="matrix(0.9878,0,0,-0.9878,-843.897849,21.954843)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 225.820312 29.5 L 225.820312 27.242188 L 230.867188 29.5 L 225.820312 31.761719 Z M 225.820312 29.5 "/>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1076.531534 -7.638345 L 855.665088 -7.638345 " transform="matrix(0.9878,0,0,-0.9878,-843.897849,21.954843)"/>
+</g>
+</g>
+</svg>
