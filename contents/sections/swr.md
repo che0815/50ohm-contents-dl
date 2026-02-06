@@ -10,8 +10,9 @@ Wenn hingegen der Speisewiderstand der Antenne und der Wellenwiderstand der Spei
 
 Wie gut die Antennenanpassung ist, lässt sich messen. Vereinfacht gesagt wird dafür ermittelt, wieviel Sendeleistung von der Antenne reflektiert wird. Der vom Messgerät angezeigte Messwert nennt sich *Stehwellenverhältnis*. Meist wird die vom englischen Begriff "standing wave ratio" abgeleitete Abkürzung SWR verwendet. Zur Bestimmung des SWR benutzt man ein *Stehwellenmessgerät*, kurz *SWR-Meter* genannt.
 
+% TODO: Editionsspezifisch machen
 <indepth>
-Ein SWR-Meter misst gleichzeitig die vorlaufende Sendeleistung, die der Sender zur Antenne schickt, und die rücklaufende Leistung, die reflektiert wurde. Dies lässt sich gut am SWR-Meter in Abbildung [ref:swr_meter_kreuzzeiger] erkennen, das vor- und rücklaufende Leistung getrennt anzeigt. Das SWR gibt allerdings nicht direkt das Verhältnis dieser beiden Messwerte an, sondern wird etwas komplizierter als $\text{SWR} = \frac {\sqrt{P_\text{V}}+\sqrt{P_\text{R}}} { \sqrt{P_\text{V}}-\sqrt{P_\text{R}}}$ ermittelt, wobei $P_\text{V}$ die vorlaufende und $P_\text{R}$ die rücklaufende Leistung ist. [edition:N:Für die Prüfung der Klasse N muss man diese Formel nicht kennen.]
+Ein SWR-Meter misst gleichzeitig die vorlaufende Sendeleistung, die der Sender zur Antenne schickt, und die rücklaufende Leistung, die reflektiert wurde. Dies lässt sich gut am SWR-Meter in Abbildung [ref:swr_meter_kreuzzeiger] erkennen, das vor- und rücklaufende Leistung getrennt anzeigt. Das SWR gibt allerdings nicht direkt das Verhältnis dieser beiden Messwerte an, sondern wird etwas komplizierter als $\text{SWR} = \frac {\sqrt{P_\text{V}}+\sqrt{P_\text{R}}} { \sqrt{P_\text{V}}-\sqrt{P_\text{R}}}$ ermittelt, wobei $P_\text{V}$ die vorlaufende und $P_\text{R}$ die rücklaufende Leistung ist. Für die Prüfung der Klasse N muss man diese Formel nicht kennen.
 </indepth>
 
 <margin>

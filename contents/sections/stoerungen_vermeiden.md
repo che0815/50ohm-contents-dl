@@ -27,7 +27,8 @@ Bei störenden Beeinflussungen kommt es hingegen - obwohl die Grenzwerte für un
 * Direkteinstrahlung in elektrische Geräte
 * Einströmungen über Anschlussleitungen
 
-Diese Wege zu kennen, erleichtert die Analyse der störenden Beeinflussung und die nachfolgende Behebung. Mögliche Maßnahmen werden [edition:N:im Kurs für Klasse E][edition:NEA:in den folgenden Abschnitten] behandelt.
+% TODO Editionsspezifisch anpassen:
+Diese Wege zu kennen, erleichtert die Analyse der störenden Beeinflussung und die nachfolgende Behebung. Mögliche Maßnahmen werden im Kurs für Klasse E behandelt.
 
 [picture:744:stoerungen_vermeiden_einstrahlung:Einstrahlung über die Empfangsantenne]
 [picture:746:stoerungen_vermeiden_direkteinstrahlung:Direkteinstrahlung in ein Gerät]

@@ -7,7 +7,9 @@ Anstatt in der Mitte kann man das Antennenkabel auch an einem Ende des Dipols an
 Eine häufige Bauform ist der endgespeiste Halbwellendipol. Die Länge des Drahtes beträgt dann $\lambda / 2$, entsprechend der Gesamtlänge des normalen Halbwellendipols. Damit die Antenne funktioniert, muss ein spezielles Anpassglied verwendet werden. 
 
 <indepth>
-Das *Anpassglied* ist erforderlich, da die Antenne im Gegensatz zu den bisher vorgestellten Antennen nicht über den richtigen Speisewiderstand verfügt. [edition:N:Was das ist, behandeln wird im weiteren Verlauf dieses Kapitels. Wie ein Anpassglied funktioniert, wird im Kurs für Klasse E erklärt.][edition:NEA:Was das ist und wie ein Anpassglied funktioniert, behandeln wird im weiteren Verlauf dieses Kapitels.]
+% TODO: Editionsspezifisch machen
+Das *Anpassglied* ist erforderlich, da die Antenne im Gegensatz zu den bisher vorgestellten Antennen nicht über den richtigen Speisewiderstand verfügt. 
+Was das ist, behandeln wird im weiteren Verlauf dieses Kapitels. Wie ein Anpassglied funktioniert, wird im Kurs für Klasse E erklärt.
 </indepth>
 
 <indepth>

@@ -7,7 +7,8 @@ Damit wir weder andere Funkdienste noch unsere Nachbarn beim Rundfunkempfang st�
 Da die tatsächlich verfügbaren Filter nicht perfekt sind, lassen sich unerwünschte Aussendungen damit nicht vollständig vermeiden. In der Praxis sind unerwünschten Aussendungen daher auf das *geringstmögliche Maß* zu beschränken.
 
 <indepth>
-Auch wenn das Amateurfunkgesetz nur allgemein verlangt, dass unerwünschte Aussendungen auf das geringstmögliche Maß zu beschränken sind, gibt es andere gesetzliche Regelungen, die konkrete Grenzwerte nennen. [edition:N:Diese werden im Kurs der Klasse A behandelt.][edition:NEA:Diese werden in weiteren Verlauf des Kapitels behandelt.]
+% TODO: Editionsspezifisch machen
+Auch wenn das Amateurfunkgesetz nur allgemein verlangt, dass unerwünschte Aussendungen auf das geringstmögliche Maß zu beschränken sind, gibt es andere gesetzliche Regelungen, die konkrete Grenzwerte nennen. Diese werden im Kurs der Klasse A behandelt.
 </indepth>
 
 [question:NJ201]

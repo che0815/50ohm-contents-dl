@@ -12,7 +12,7 @@ Der hier dargestellte Empfänger wird als Geradeausempfänger bezeichnet. Der Na
 
 Betrachten wir die einzelnen Blöcke des Empfängers der Reihe nach von links nach rechts im Detail:
 
-1. Antenne: [edition:N:Dieses Symbol kennen wir schon.] Die Antenne nimmt eine Vielzahl von Funkwellen auf und leitet sie als elektrische Schwingungen weiter.
+1. Antenne: Die Antenne nimmt eine Vielzahl von Funkwellen auf und leitet sie als elektrische Schwingungen weiter.
 2. Bandpassfilter: Um das gewünschte Signal herauszufiltern, folgt ein Bandpassfilter. Dieses lässt nur den gewünschten Frequenzbereich durch und sperrt alle anderen ungewünschten Frequenzen.
 3. HF-Verstärker: Als nächstes folgt ein Verstärker, der das herausgefilterte Signal verstärkt. Es handelt sich hierbei um einen Hochfrequenz-Verstärker (HF-Verstärker), da das Signal eine hohe Frequenz aufweist, beispielsweise 144,3 MHz.
 4. Demodulator: Das verstärkte Signal wird vom Demodulator weiter verarbeitet. Demodulation ist das Gegenstück zur Modulation. Während bei der Modulation ein Signal (z. B. ein Sprachsignal) auf einen Hochfrequenzträger moduliert wird, passiert bei der Demodulation das Gegenteil: Aus dem modulierten Hochfrequenzträger wird das ursprüngliche Signal zurückgewonnen. Wir haben dann beispielsweise wieder das Sprachsignal, das am Sender in das Mikrofon gesprochen wurde. Man spricht auch vom Niederfrequenz-Signal, kurz NF-Signal, da es vergleichsweise niedrige Frequenzen aufweist, bei einem Sprachsignal beispielsweise Frequenzen unter 20 kHz.

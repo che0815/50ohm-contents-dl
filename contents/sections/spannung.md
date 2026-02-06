@@ -1,4 +1,4 @@
-Wir haben [edition:N:am Anfang des Kurses] bereits die elektrische Spannung kennengelernt. Fassen wir nochmal zusammen: Trennt man gezielt positive von negativen Ladungen, z. B. in einer Batterie, dann versuchen diese Ladungen wieder zusammenzukommen. Es liegt eine elektrische Spannung vor, z. B. zwischen den Polen der Batterie. Gemessen wird die elektrische Spannung in der Einheit Volt, die mit V abgekürzt wird.
+Wir haben bereits die elektrische Spannung kennengelernt. Fassen wir nochmal zusammen: Trennt man gezielt positive von negativen Ladungen, z. B. in einer Batterie, dann versuchen diese Ladungen wieder zusammenzukommen. Es liegt eine elektrische Spannung vor, z. B. zwischen den Polen der Batterie. Gemessen wird die elektrische Spannung in der Einheit Volt, die mit V abgekürzt wird.
 
 <person>
 Die Einheit Volt ist nach dem italienischen Physiker *Alessandro Volta* benannt.

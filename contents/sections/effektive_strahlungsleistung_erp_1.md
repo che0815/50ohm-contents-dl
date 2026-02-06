@@ -9,7 +9,8 @@ Die vom Nachweisverfahren zum Schutz von Personen in elektromagnetischen Feldern
 Wie stark eine Antenne in ihre Hauptstrahlrichtung abstrahlt, wird durch den *Gewinnfaktor* bezogen auf den Halbwellendipol ausgedrückt. Dieser gibt an, wieviel besser eine Antenne im Vergleich zu einem Halbwellendipol in die jeweilige Hauptstrahlrichtung abstrahlt. Ein Gewinnfaktor von 2 gegenüber dem Halbwellendipol bedeutet beispielsweise, dass eine Antenne in die Hauptstrahlrichtung doppelt so stark abstrahlt wie ein Halbwellendipol in seine Hauptstrahlrichtung.
 
 <indepth>
-Anstelle des Gewinnfaktors von Antennen wird häufig der "Gewinn in Dezibel (dB)" angegeben. [edition:N:Mit der Einheit Dezibel beschäftigt sich der Kurs für die Klasse E.]
+% TODO: Editionsspezifisch machen
+Anstelle des Gewinnfaktors von Antennen wird häufig der "Gewinn in Dezibel (dB)" angegeben. Mit der Einheit Dezibel beschäftigt sich der Kurs für die Klasse E.
 </indepth>
 
 ---
