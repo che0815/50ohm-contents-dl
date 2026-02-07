@@ -10,6 +10,6 @@ Mit einem hochohmigen, isolierten Widerstand erfolgt die Entladung langsam und s
 
 [question:AK201]
 
-<margin>
+<tipp>
 Um wirklich auf der sicheren Seite zu sein, können Isolierhandschuhe in einer ausreichenden Schutzklasse getragen werden. Selbstverständlich ist nur isoliertes Werkzeug zu benutzen.
-</margin>
+</tipp>

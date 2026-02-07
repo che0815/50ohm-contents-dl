@@ -20,7 +20,7 @@ $P_\text{EIRP} = \qty{6}{\watt} \cdot 10 \cdot 2 \cdot 1,64 \approx \qty{197}{\w
 
 [question:EK104]
   
-In der [Anleitung zur Durchführung der Anzeige ortsfester Amateurfunkanlagen nach §9 der BEMFV](50ohm.de/abemfv) ist genau festgelegt, was unter dem Sicherheitsabstand zu verstehen ist. Der standortbezogene Sicherheitsabstand beschreibt den erforderlichen Abstand zwischen der Bezugsantenne und dem Bereich, in dem die geltenden Grenzwerte eingehalten werden müssen. Dabei sind auch die relevanten Feldstärken umliegender ortsfester Funkanlagen zu berücksichtigen.
+In der [Anleitung zur Durchführung der Anzeige ortsfester Amateurfunkanlagen nach §9 der BEMFV](https://50ohm.de/abemfv) ist genau festgelegt, was unter dem Sicherheitsabstand zu verstehen ist. Der standortbezogene Sicherheitsabstand beschreibt den erforderlichen Abstand zwischen der Bezugsantenne und dem Bereich, in dem die geltenden Grenzwerte eingehalten werden müssen. Dabei sind auch die relevanten Feldstärken umliegender ortsfester Funkanlagen zu berücksichtigen.
 
 Wichtig ist dabei: Der Sicherheitsabstand bezieht sich nicht auf einen einzelnen Punkt der Antenne, sondern auf die gesamte Antennenstruktur. Mit anderen Worten, für jeden Punkt der Antenne muss sichergestellt sein, dass außerhalb des berechneten Sicherheitsabstands die Grenzwerte eingehalten werden.
 

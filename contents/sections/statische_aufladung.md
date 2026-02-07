@@ -1,4 +1,4 @@
-Auch ohne Blitz und Donner können auf unseren Antennen unerwünschte Spannungen vorhanden sein. Meist sind statische Aufladungen die Ursache. Zum Beispiel Regen und Hagel können sie auslösen. Dies kann durchaus eine Gefahr für Personen sein. Im harmlosen Fall führt es nur zu Prasselstörungen beim Empfang.
+Auch ohne Blitz und Donner können an Antennen unerwünschte Spannungen auftreten. Ursache sind häufig statische Aufladungen, die beispielsweise durch  Regen oder Hagel verursacht werden können. Dies kann durchaus eine Gefahr für Geräte und Personen sein. Im harmlosen Fall führt es nur zu Prasselstörungen beim Empfang.
 
 [question:EK206]
 
