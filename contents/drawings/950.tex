@@ -60,6 +60,8 @@
         \path(0:0) -- ++(-40:100) coordinate (E1);
         \path(0:0) -- ++(0:110) coordinate (F1);
         \path(0:0) -- ++(180:30) coordinate (G1);
+        %
+        \fill[fill=DARCblue, draw=DARCblue](-40:30) node[circ](){};
     \end{polaraxis}
 
     \draw[very thick]
@@ -82,8 +84,8 @@
     \draw[thick](hals) -- ++( 0.25,-0.5) coordinate(h1);
     \draw[thick](hals) -- ++(-0.25,-0.5) coordinate(h2);
     \draw[thick](hals) to [open] ++(0,0.25) circle (0.25);
-    \draw[thick](hals) to [open] ++(0,0.125) arc (90:55:0.45*0.5);
-    \draw[thick](hals) to [open] ++(0,0.125) arc (90:125:0.45*0.5);
+    \draw[thick](hals) to [open] ++(0,0.125) arc (90:55:-0.45*0.5);
+    \draw[thick](hals) to [open] ++(0,0.125) arc (90:125:-0.45*0.5);
     \draw[thick](hals) to [open, -*] ++(-0.1,0.65*0.5);
     \draw[thick](hals) to [open, -*] ++(+0.1,0.65*0.5);
 \end{tikzpicture}
