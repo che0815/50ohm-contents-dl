@@ -54,7 +54,13 @@ Tabellen werden mit senkrechten Strichen "gemalt". Der senkrechte Strich ist auf
 * Nur im LaTeX, nicht im Web: `<latexonly>...</latexonly>`
 
 > [!WARNING]
-> Es gibt eine Funktionseinschränkung im DARCdown Parser: Zumindest die Tags `<latexonly>...</latexonly>` und `<webonly>...</webonly>`, vielleicht auch die anderen, funktionieren zur Zeit nur, wenn das öffnende und das schließende Tag jeweils alleine auf einer Zeile steht.
+> Die Tags funktionieren nur, wenn das öffnende und schließende Tag jeweils für sich auf einer Zeile stehen:
+>
+> ```
+> <attention>
+> Bitte aufpassen!
+> </attention>
+> ```
 
 ## Aufzählungen
 
