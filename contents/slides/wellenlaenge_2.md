@@ -12,25 +12,26 @@ $f = \dfrac{c}{\lambda} \quad \lambda = \dfrac{c}{f}$
 
 $f[[\unit{\mega\hertz}]] \approx \dfrac{300}{\lambda[[\unit{\meter}]]} \quad \lambda[[\unit{\meter}]] \approx \dfrac{300}{f[[\unit{\mega\hertz}]]}$
 
+* Zuerst immer selbst versuchen, die Lösung zu finden
+
 ---
 [question:EB314]
 ---
+* $\qty{80}{\meter}$-Band $= \qtyrange{3,5}{3,8}{\mega\hertz}$
+  * alle Antworten liegen darin → rechnen
+
 $f[[\unit{\mega\hertz}]] = \frac{300}{80} = 3,75$
----
-<note>
-80m-Band
-</note>
+
 ---
 [question:EB315]
 ---
-Umrechnen in die Grundeinheit $\unit{\meter}$:
+* Werte stets in Grundeinheiten einsetzen, ggf. umrechnen (z.B. mm → m)
+
 $\qty{30}{\milli\meter} = \qty{3}{\centi\meter} = \qty{0,03}{\meter}$
 
 $f[[\unit{\mega\hertz}]] = \frac{300}{0,03} = \frac{300 \cdot 100}{3} = \num{10000}$
 
-% $f=\qty{10}{\giga\hertz}$, da $\qty{1}{\giga\hertz} = \qty{1000}{\mega\hertz}$
-$f=\qty{10}{\giga\hertz}$, da $\qty{1}{\giga\hertz} = \qty{1000}{\mega\hertz}$
-
+$f = \qty{10}{\giga\hertz}$, da $\qty{1}{\giga\hertz} = \qty{1000}{\mega\hertz}$
 
 ---
 [question:EB316]
@@ -43,16 +44,20 @@ $\qty{3}{\giga\hertz}$, da $\qty{1}{\giga\hertz} = \qty{1000}{\mega\hertz}$
 
 ---
 [question:EB311]
-<note>
-$\qty{160}{\meter}$-Band, wenn man die Amateurfunkfrequenzen kennt
-</note>
+---
+* $\qty{160}{\meter}$-Band $= \qtyrange{1,8}{2}{\mega\hertz}$
+  * $\qty{1,84}{\mega\hertz}$ liegt drin → $\qty{163}{\meter}$
+* ohne Rechnen lösbar, wenn man die Bandgrenzen kennt
+
 ---
 [question:EB312]
-<note>
-$\qty{15}{\meter}$-Band, auch wenn $\qty{14}{\meter}$-Band korrekter wäre
-</note>
+---
+* $\qty{15}{\meter}$-Band $= \qtyrange{21}{21,45}{\mega\hertz}$ (Name eigentlich unpassend, $\qty{14}{\meter}$ träfe besser)
+
+$\lambda[[\unit{\meter}]] = \frac{300}{21} = 14,29$
+
 ---
 [question:EB313]
-<note>
-$\qty{10}{\meter}$-Band
-</note>
+---
+* $\qty{10}{\meter}$-Band $= \qtyrange{28}{29,5}{\mega\hertz}$ → $\qty{10,5}{\meter}$
+* $\qty{9,49}{\meter}$ entspräche $f > \qty{30}{\mega\hertz}$, also falsch
